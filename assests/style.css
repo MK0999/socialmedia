@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* sets background color*/
 body {
-    background-color: #d9dcd6;
+    background-color:#d9dcd6;
 }
-
+/* sets class selector header's padding,color and font size */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +15,16 @@ body {
     color: #ffffff;
 }
 
+/* sets headers navigation icons in line and size*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* change color of class seo in h1*/
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* adjust nav's size and font categories in class header*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -36,33 +37,33 @@ body {
     list-style-type: none;
 }
 
+
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Sets attributes color and text decoration */
 a {
-    color: #ffffff;
+    color:#ffffff;
     text-decoration: none;
 }
-
+/* sets paragraph size*/
 p {
     font-size: 16px;
 }
 
-.hero {
+/* Changed class name from hero to float as per to set picture in background*/
+.float {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("C:\Users\ASUS\Downloads\digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
-.picture {
-    height: 20px;
-    width: 20PX;
-}
-}
+
+
 
 .float-left {
     float: left;
