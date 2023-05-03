@@ -5,7 +5,7 @@ The bootcamp first challenge is to made modifications in already existing  HTML 
 
 ## Usage
 
-Changed a alredy existing elements to new to give a better direction a shape to coding which is easily assesible and understandale by others. Website have icons and images with attributes.
+Changed a alredy existing elements to new , to give a better direction and shape to coding which is easily assesible and understandale by others. Website have icons and images with attributes.
 
 ## Credits
 
