@@ -17,3 +17,5 @@ Bootcamp Study Activities
 
 # Links
 Repository link-https://github.com/MK0999/socialmedia
+Deployed link-  https://mk0999.github.io/socialmedia/
+
