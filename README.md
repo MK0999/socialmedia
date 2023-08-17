@@ -13,4 +13,7 @@ Bootcamp Study Activities
 
 ## Screenshots
 ![main page](https://github.com/MK0999/socialmedia/blob/main/Screenshot%20(63).png?raw=true)
-![second page](
+![second page](https://github.com/MK0999/socialmedia/blob/main/Screenshot%20(65).png?raw=true)
+
+# Links
+Repository link- 
