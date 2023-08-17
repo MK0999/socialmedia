@@ -12,4 +12,4 @@ Bootcamp Study Activities
 "C:\Users\ASUS\bootcamp\CARL-VIRT-FSF-PT-04-2023-U-LOLC"
 
 ## Screenshots
-![main page[(
+![main page](https://github.com/MK0999/socialmedia/blob/main/Screenshot%20(63).png?raw=true)
